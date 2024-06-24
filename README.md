@@ -37,7 +37,8 @@ Nota: Certifique-se de que o seu terminal está configurado para usar o código 
 
 ## 🎮 Exemplo de Jogo
 
-![Exemplo de Jogo](https://via.placeholder.com/600x400?text=Jogo+da+Forca)
+![image](https://github.com/luisguilhermesl/Hangman--Jogo-da-Forca--CMD/assets/157552353/7c6605a7-34b7-4d0a-81b5-56bdab30dfd3)
+
 
 
 
